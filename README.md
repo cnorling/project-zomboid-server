@@ -1,2 +1,5 @@
-# project-zomboid
-Lightweight, linuxgsm-free Project Zomboid Dockerfile and manifests for running in Kubernetes
+# THIS SERVER DOES NOT WORK AT THIS TIME
+
+# about project-zomboid-server
+
+There are a few docker images circling the internet for running Project Zomboid in a container, but I wasn't satisfied with their implementations because they're architected to run on a persistent server rather than in a kubernetes cluster. I set out to create a lightweight, linuxgsm-free Project Zomboid Dockerfile and some associated manifests for running in Kubernetes.
